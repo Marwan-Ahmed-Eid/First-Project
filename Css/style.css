@@ -116,6 +116,7 @@ body{
     width: 100%;
     height: 100vh;
     background-image: url(../Images/egypt.jpg);
+    background-repeat: no-repeat;
     position: relative;
 }
 .home-overlay{
